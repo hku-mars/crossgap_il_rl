@@ -1,0 +1,4 @@
+gym>=0.2.3
+pandas
+cfg_load
+airsim
